@@ -1,0 +1,380 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "miss",
+                "first": "claire",
+                "last": "davidson"
+            },
+            "location": {
+                "street": "4957 w dallas st",
+                "city": "lansing",
+                "state": "ohio",
+                "postcode": 38169
+            },
+            "email": "claire.davidson@example.com",
+            "login": {
+                "username": "greenrabbit902",
+                "password": "pepsi",
+                "salt": "9lbusAuL",
+                "md5": "9d02e6e791d6f63feeaa6a345f8592bf",
+                "sha1": "49d045032f45607818f56409e749ee4a37bd005e",
+                "sha256": "4ea8659c626c737332a3d84da5b1f77f05b6d38cd757471e94cd8378d93dad87"
+            },
+            "dob": "1973-07-02 00:31:13",
+            "registered": "2008-12-11 14:16:56",
+            "phone": "(928)-144-2085",
+            "cell": "(437)-171-6142",
+            "id": {
+                "name": "SSN",
+                "value": "385-95-2483"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/92.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+            },
+            "nat": "US"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "madame",
+                "first": "lila",
+                "last": "fontai"
+            },
+            "location": {
+                "street": "8124 rue duquesne",
+                "city": "préverenges",
+                "state": "solothurn",
+                "postcode": 6267
+            },
+            "email": "lila.fontai@example.com",
+            "login": {
+                "username": "ticklishswan612",
+                "password": "mathew",
+                "salt": "kDESRBVH",
+                "md5": "637f310c31322f5b70030087ed420c86",
+                "sha1": "9f5ec79f38649327fcf51afb3cd9d6b8eae278b6",
+                "sha256": "cc017ded3825346ad75a0473b471063b5442f6e5639e2f6411ce6b5119b8e57c"
+            },
+            "dob": "1973-06-18 11:02:24",
+            "registered": "2010-01-20 13:42:24",
+            "phone": "(137)-564-7887",
+            "cell": "(783)-453-3077",
+            "id": {
+                "name": "AVS",
+                "value": "756.SLOU.PRER.89"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/44.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+            },
+            "nat": "CH"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "monsieur",
+                "first": "noam",
+                "last": "sanchez"
+            },
+            "location": {
+                "street": "6270 montée du chemin-neuf",
+                "city": "carrouge vd",
+                "state": "ticino",
+                "postcode": 2313
+            },
+            "email": "noam.sanchez@example.com",
+            "login": {
+                "username": "bluerabbit194",
+                "password": "francesc",
+                "salt": "UVAQ14oy",
+                "md5": "b834b10186aee76475eacaeed216104b",
+                "sha1": "3f381a2ea3c0fdfb0c2dfb5c1b1b50ac8a4065be",
+                "sha256": "a4fecdbe5c1822794e3f5bc2cb30acf87f8dd021f7521fc7ffa37e4604b5a521"
+            },
+            "dob": "1967-06-12 00:39:06",
+            "registered": "2005-10-04 16:55:42",
+            "phone": "(944)-642-1704",
+            "cell": "(763)-851-0460",
+            "id": {
+                "name": "AVS",
+                "value": "756.SAMP.YEPN.43"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/36.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+            },
+            "nat": "CH"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "jerry",
+                "last": "hudson"
+            },
+            "location": {
+                "street": "5522 grove road",
+                "city": "ardee",
+                "state": "galway city",
+                "postcode": 94082
+            },
+            "email": "jerry.hudson@example.com",
+            "login": {
+                "username": "whitepanda211",
+                "password": "craving",
+                "salt": "CRmyOc6H",
+                "md5": "7595c3a97fca99bf902cde254704ac22",
+                "sha1": "32b9569765dd12b42df9f0a9848e960f86d90d39",
+                "sha256": "280e6df4dff8cfda8834ca286fd8091772331780d8a0b0957cb339ef08c3d4fa"
+            },
+            "dob": "1970-03-02 19:18:35",
+            "registered": "2004-08-21 03:57:59",
+            "phone": "041-190-8428",
+            "cell": "081-712-1211",
+            "id": {
+                "name": "PPS",
+                "value": "4496457T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/62.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+            },
+            "nat": "IE"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "oliver",
+                "last": "lampi"
+            },
+            "location": {
+                "street": "7510 visiokatu",
+                "city": "vesilahti",
+                "state": "lapland",
+                "postcode": 43854
+            },
+            "email": "oliver.lampi@example.com",
+            "login": {
+                "username": "brownelephant361",
+                "password": "musashi",
+                "salt": "55wSTUbA",
+                "md5": "e24a11e35e3ef513eb380cec62d7038b",
+                "sha1": "db8c61236182013e3c9d36724eef70ffd77c1148",
+                "sha256": "8470a9c681ce25706583ea295bfeaad927fb22c3f4033d37591d681005618530"
+            },
+            "dob": "1948-04-17 13:32:45",
+            "registered": "2002-04-23 21:21:42",
+            "phone": "02-851-286",
+            "cell": "042-660-10-47",
+            "id": {
+                "name": "HETU",
+                "value": "948-953C"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/16.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+            },
+            "nat": "FI"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "سام",
+                "last": "سالاری"
+            },
+            "location": {
+                "street": "4922 تقوی",
+                "city": "ساوه",
+                "state": "مازندران",
+                "postcode": 24665
+            },
+            "email": "سام.سالاری@example.com",
+            "login": {
+                "username": "tinyostrich412",
+                "password": "hal9000",
+                "salt": "w4IcfxG4",
+                "md5": "628bfbfa479f410ff7544b013420dbd5",
+                "sha1": "55063abcc1fb5b63bca3d222c9c4151b7f02ea2c",
+                "sha256": "199e1add65c4d12aa75b9ec0ec2b7c4bf4ac4aebfb509c2299ec07c404493cef"
+            },
+            "dob": "1951-06-12 19:34:39",
+            "registered": "2006-10-28 13:58:38",
+            "phone": "006-32878750",
+            "cell": "0905-544-7264",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/31.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+            },
+            "nat": "IR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "monsieur",
+                "first": "charly",
+                "last": "vincent"
+            },
+            "location": {
+                "street": "8668 rue gasparin",
+                "city": "cugy vd",
+                "state": "appenzell innerrhoden",
+                "postcode": 2025
+            },
+            "email": "charly.vincent@example.com",
+            "login": {
+                "username": "bluebird271",
+                "password": "ying",
+                "salt": "X9L0AlVi",
+                "md5": "fa27587e66d60dc640bee92763e0e18f",
+                "sha1": "0b96019a24349ff5f81a414573be4f174840e56e",
+                "sha256": "1681cb5196756ee7987d1e415c50d41692f20ff484bbf67fb17b924a809cd6b3"
+            },
+            "dob": "1961-10-06 19:24:07",
+            "registered": "2013-06-29 03:47:04",
+            "phone": "(981)-756-0632",
+            "cell": "(598)-694-4724",
+            "id": {
+                "name": "AVS",
+                "value": "756.EZLF.PMAY.50"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/36.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+            },
+            "nat": "CH"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "mrs",
+                "first": "ستایش",
+                "last": "کامروا"
+            },
+            "location": {
+                "street": "3881 شهید همت",
+                "city": "ایلام",
+                "state": "اصفهان",
+                "postcode": 32208
+            },
+            "email": "ستایش.کامروا@example.com",
+            "login": {
+                "username": "orangeelephant688",
+                "password": "sevens",
+                "salt": "pWZ1TnT3",
+                "md5": "8d36a9dba4318f0f1c442cf2f55eb1e9",
+                "sha1": "ed4f59fb955e38b7beba914c75a738ecf75c9d94",
+                "sha256": "fd818b6da6bd2b240906dbaa48a78ef6d0eb831a121fd6fc92d8102bd3efcb3b"
+            },
+            "dob": "1945-09-30 11:57:01",
+            "registered": "2010-05-30 16:40:22",
+            "phone": "077-89150077",
+            "cell": "0983-780-4286",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/10.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+            },
+            "nat": "IR"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "mrs",
+                "first": "kimberly",
+                "last": "sullivan"
+            },
+            "location": {
+                "street": "1866 rochestown road",
+                "city": "new ross",
+                "state": "wexford",
+                "postcode": 43572
+            },
+            "email": "kimberly.sullivan@example.com",
+            "login": {
+                "username": "brownleopard271",
+                "password": "angela1",
+                "salt": "OGR8RmIM",
+                "md5": "fa6ee36e38827d15c2cc21fa9461b7b4",
+                "sha1": "694c06f5638fa5d54ac35abc6782993d79387bd2",
+                "sha256": "7336b8d116c7feb02c009f5189862b6771daab47f550a000735a5a1f25f8b2af"
+            },
+            "dob": "1969-08-13 13:49:17",
+            "registered": "2009-11-19 14:11:48",
+            "phone": "041-908-3597",
+            "cell": "081-344-8927",
+            "id": {
+                "name": "PPS",
+                "value": "9463304T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/83.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+            },
+            "nat": "IE"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "andrés",
+                "last": "alves"
+            },
+            "location": {
+                "street": "5460 rua alagoas ",
+                "city": "praia grande",
+                "state": "são paulo",
+                "postcode": 81500
+            },
+            "email": "andrés.alves@example.com",
+            "login": {
+                "username": "heavypanda824",
+                "password": "cccccc",
+                "salt": "DQdU9Hrr",
+                "md5": "29dd8d79b5c6d4dae4171e88dede4905",
+                "sha1": "a0624fdc962101a3feaebd1fd07ecd4424d82f09",
+                "sha256": "72a5e8f22192f0e4f7cd966909c88ab06f974241d1ff9e45811e704bb4f382fe"
+            },
+            "dob": "1973-11-08 22:01:03",
+            "registered": "2014-01-27 11:03:38",
+            "phone": "(99) 8142-8059",
+            "cell": "(37) 2061-2098",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "nat": "BR"
+        }
+    ],
+    "info": {
+        "seed": "hi",
+        "results": 10,
+        "page": 1,
+        "version": "1.1"
+    }
+}
